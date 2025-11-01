@@ -34,6 +34,7 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"fnt_minecraft","path":"fonts/fnt_minecraft/fnt_minecraft.yy",},},
     {"id":{"name":"spr_btn","path":"sprites/spr_btn/spr_btn.yy",},},
     {"id":{"name":"obj_btn","path":"objects/obj_btn/obj_btn.yy",},},
     {"id":{"name":"snd_btn_hover","path":"sounds/snd_btn_hover/snd_btn_hover.yy",},},

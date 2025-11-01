@@ -1,9 +1,10 @@
 /// @description Activate
 
-if type == "New Game" {
-	show_debug_message(type);
+switch(type) {
+	case "New Game":
+		show_debug_message(type);
+	break;
 	
-} else {
-	
-	show_debug_message("No Type configured");
+	default:
+		show_debug_message("No Type configured");
 }
