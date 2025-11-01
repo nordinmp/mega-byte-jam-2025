@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"rm_settings","order":1,"path":"rooms/rm_settings/rm_settings.yy",},
     {"name":"spr_btn","order":1,"path":"sprites/spr_btn/spr_btn.yy",},
+    {"name":"rm_kitchen","order":3,"path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"rm_credits","order":2,"path":"rooms/rm_credits/rm_credits.yy",},
   ],
 }
