@@ -30,5 +30,6 @@
     {"name":"spr_btn","order":1,"path":"sprites/spr_btn/spr_btn.yy",},
     {"name":"spr_cursor","order":2,"path":"sprites/spr_cursor/spr_cursor.yy",},
     {"name":"spr_slider","order":3,"path":"sprites/spr_slider/spr_slider.yy",},
+    {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }
