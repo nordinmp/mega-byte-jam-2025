@@ -1,6 +1,6 @@
 /// @description dispau tetx
 ///draw_text(x, y, type);
-draw_set_font(fnt_minecraft);
+draw_set_font(fnt_jetbrains);
 draw_set_halign(fa_middle);
 draw_set_valign(fa_middle);
 
