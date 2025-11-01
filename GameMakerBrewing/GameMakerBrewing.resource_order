@@ -17,6 +17,8 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"rm_settings","order":1,"path":"rooms/rm_settings/rm_settings.yy",},
     {"name":"spr_btn","order":1,"path":"sprites/spr_btn/spr_btn.yy",},
+    {"name":"rm_credits","order":2,"path":"rooms/rm_credits/rm_credits.yy",},
   ],
 }
