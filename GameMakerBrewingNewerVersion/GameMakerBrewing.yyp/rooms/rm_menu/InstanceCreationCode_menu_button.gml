@@ -1,2 +1,2 @@
 type = "New Game";
-room_target = noone;
+room_target = rm_kitchen;
