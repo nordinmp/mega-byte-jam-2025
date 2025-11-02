@@ -9,5 +9,5 @@ for(i = 0 ; i < array_length(devs) ; i++ )
 	text += devs[i] + "\n";
 }
 
-xscale = 1;
-yscale = 1;
+xscale = 3;
+yscale = 3;

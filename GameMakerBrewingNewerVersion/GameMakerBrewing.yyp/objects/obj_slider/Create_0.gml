@@ -1,5 +1,9 @@
 /// @description
-xzero_point = x + (16*12);
+
+fullSize = (16*32) /// x + fullsize
+halfSize = fullSize/2 /// x + halfSize
+
+xzero_point = x + fullSize;
 yzero_point = y;
 
 volume_ratio = 1;
@@ -13,10 +17,13 @@ dragging = false;
 
 function Slider() {
 	if canDrag == false { return };
-	xzero_point = mouse_x;
+	
+	var minX = x;
+    var maxX = x + fullSize;
+    xzero_point = clamp(mouse_x, minX, maxX);
 
-	volume_ratio = clamp((xzero_point - (5*16)) / (64*3), 0, 1);
-	volume_percent = clamp(ceil(volume_ratio * 100), 0, 100);
+	volume_ratio = (xzero_point - minX) / (maxX - minX);
+    volume_percent = ceil(volume_ratio * 100);
 
 	switch(channel) {
 		case "Main":

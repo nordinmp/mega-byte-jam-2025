@@ -17,7 +17,7 @@ switch(type) {
 		room_goto(room_target);
 	break;
 	
-	case "<-":
+	case "<":
 		room_goto(room_target);
 	break;
 	

@@ -39,6 +39,7 @@
   "resources":[
     {"id":{"name":"fnt_jetbrains","path":"fonts/fnt_jetbrains/fnt_jetbrains.yy",},},
     {"id":{"name":"fnt_minecraft","path":"fonts/fnt_minecraft/fnt_minecraft.yy",},},
+    {"id":{"name":"fnt_shantell","path":"fonts/fnt_shantell/fnt_shantell.yy",},},
     {"id":{"name":"obj_btn","path":"objects/obj_btn/obj_btn.yy",},},
     {"id":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},},
     {"id":{"name":"obj_jukebox","path":"objects/obj_jukebox/obj_jukebox.yy",},},

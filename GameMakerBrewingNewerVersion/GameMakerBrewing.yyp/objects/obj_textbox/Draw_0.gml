@@ -1,5 +1,5 @@
 /// @description Draw text
-draw_set_font(fnt_jetbrains);
+draw_set_font(fnt_shantell);
 draw_set_halign(fa_middle);
 draw_set_valign(fa_top);
 
