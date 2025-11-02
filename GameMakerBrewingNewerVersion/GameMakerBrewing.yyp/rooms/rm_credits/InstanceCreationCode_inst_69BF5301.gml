@@ -1,5 +1,6 @@
 devs = [
 	"SirLindhot69",
+	"Nordin",
 ];
 
 text = "[ Art ]\n";
