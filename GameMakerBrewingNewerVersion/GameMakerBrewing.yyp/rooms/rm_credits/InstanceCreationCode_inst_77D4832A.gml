@@ -11,7 +11,7 @@ devs = [
 	"Static",
 ];
 
-text = "[ Devs ]\n";
+
 
 for(i = 0 ; i < array_length(devs) ; i++ )
 {
