@@ -12,8 +12,8 @@
   "name":"obj_ingredient",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Ingredients",
+    "path":"folders/Objects/Ingredients.yy",
   },
   "parentObjectId":null,
   "persistent":true,

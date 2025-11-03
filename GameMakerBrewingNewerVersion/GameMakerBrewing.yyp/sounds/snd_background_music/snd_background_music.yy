@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":61.066963,
+  "duration":92.60417,
   "exportDir":"",
   "name":"snd_background_music",
   "parent":{
