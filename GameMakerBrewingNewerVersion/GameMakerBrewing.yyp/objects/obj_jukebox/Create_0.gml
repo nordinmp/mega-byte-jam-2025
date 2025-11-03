@@ -5,6 +5,4 @@ function load_audio_groups() {
 
 load_audio_groups()
 
-if !audio_is_playing(snd_background_music) {
-	audio_play_sound(snd_background_music, 1, true);
-}
+alarm[0] = 5;

@@ -16,6 +16,7 @@ canDrag = false;
 dragging = false;
 
 function Slider() {
+	if room != rm_settings { return }
 	if canDrag == false { return };
 	
 	var minX = x;

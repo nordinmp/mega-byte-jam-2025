@@ -1,18 +1,18 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_background_music",
+  "%Name":"snd_fart",
   "audioGroupId":{
-    "name":"ag_music",
-    "path":"audiogroups/ag_music",
+    "name":"ag_sfx",
+    "path":"audiogroups/ag_sfx",
   },
   "bitDepth":1,
   "channelFormat":0,
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":61.066963,
+  "duration":0.31346938,
   "exportDir":"",
-  "name":"snd_background_music",
+  "name":"snd_fart",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_background_music.wav",
+  "soundFile":"snd_fart.mp3",
   "volume":1.0,
 }

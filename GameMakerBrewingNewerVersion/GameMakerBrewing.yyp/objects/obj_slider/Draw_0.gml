@@ -7,5 +7,5 @@ if room == rm_settings {
 	xzero_point = clamp(xzero_point, x, x + fullSize)
 
 	draw_sprite_stretched(spr_slider, -1, x, y, fullSize, 16*5);
-	draw_sprite_stretched(spr_bar, -1, xzero_point, yzero_point-8, 16, 16*6);
+	draw_sprite_stretched(spr_bar, -1, xzero_point - 8, yzero_point-8, 16, 16*6);
 }
