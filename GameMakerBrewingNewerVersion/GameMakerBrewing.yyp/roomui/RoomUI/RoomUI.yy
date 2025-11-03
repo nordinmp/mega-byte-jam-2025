@@ -21,7 +21,7 @@
               ],"flexDirection":0,"height":{"unit":3,"value":821.0,},"justifyContent":1,"name":"FlexPanel_7","nodeColour":4294068345,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":648.0,},},
             {"$GMRSpriteGraphic":"v1","%Name":"graphic_406CB610","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_406CB610","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0779537,"spriteId":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"x":0.0,"y":0.0,},
           ],"flexDirection":0,"height":{"unit":1,"value":900.0,},"justifyContent":3,"name":"FlexPanel_4","nodeColour":4294068401,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":650.0,},},
-      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"Letter_UI","nodeColour":4294102856,"resourceType":"GMRUILayer","resourceVersion":"2.0",},
+      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"Letter_UI","nodeColour":4294102856,"resourceType":"GMRUILayer","resourceVersion":"2.0","visible":false,},
     {"$GMRUILayer":"v1","%Name":"Kitchen_UI","alignItems":1,"children":[
         {"$GMRFlexPanel":"","%Name":"FlexPanel_3","alignItems":1,"children":[
             {"$GMRFlexPanel":"","%Name":"FlexPanel","alignItems":1,"children":[

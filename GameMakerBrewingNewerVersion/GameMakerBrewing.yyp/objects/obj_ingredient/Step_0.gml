@@ -44,7 +44,7 @@ if (dragging) {
 	
 	// Vesntre
 	if (x < 0) {
-	    x = 0;
+	    x = sprite_width;
 	    velocity.x = abs(velocity.x);
 	}
 
@@ -55,8 +55,8 @@ if (dragging) {
 	}
 
 	// top
-	if (y < 0) {
-	    y = 0;
+	if (y - sprite_height/2 < 0) {
+	    y = sprite_height;
 	    velocity.y = abs(velocity.y);
 	}
 
