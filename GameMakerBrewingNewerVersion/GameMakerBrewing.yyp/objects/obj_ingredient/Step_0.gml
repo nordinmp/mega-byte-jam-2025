@@ -42,6 +42,30 @@ if (dragging) {
 		};
     }
 	
+	// Vesntre
+	if (x < 0) {
+	    x = 0;
+	    velocity.x = abs(velocity.x);
+	}
+
+	// hærjer
+	if (x > room_width - sprite_width) {
+	    x = room_width - sprite_width;
+	    velocity.x = -abs(velocity.x);
+	}
+
+	// top
+	if (y < 0) {
+	    y = 0;
+	    velocity.y = abs(velocity.y);
+	}
+
+	// bnud
+	if (y > room_height - sprite_height) {
+	    y = room_height - sprite_height;
+	    velocity.y = -abs(velocity.y);
+	}
+	
 	velocity.x *= 0.982;
     velocity.y *= 0.982;
 	
