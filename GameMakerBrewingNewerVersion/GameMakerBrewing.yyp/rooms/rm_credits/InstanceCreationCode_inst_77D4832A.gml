@@ -1,5 +1,4 @@
 devs = [
-	"Culf",
 	"Damrong",
 	"Eag1e",
 	"Ezekiah",

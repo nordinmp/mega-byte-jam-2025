@@ -1,15 +1,19 @@
 /// @description
-
-if mouse_check_button(mb_left) and hovering and dragging == false
+// man kan kun trykke på en ingredient hvis der ikke er en overlay åben
+if global.overlay == "none"
 {
-	dragging = true
-	diffx = x - mouse_x;
-	diffy = y - mouse_y;
+	if mouse_check_button(mb_left) and hovering and dragging == false
+	{
+		dragging = true
+		diffx = x - mouse_x;
+		diffy = y - mouse_y;
 	
-} else if mouse_check_button(mb_left) == false {
-	dragging = false;
+	} else if mouse_check_button(mb_left) == false {
+		dragging = false;
 	
+	}
 }
+
 
 if (dragging) {
     new_x = mouse_x + diffx;
