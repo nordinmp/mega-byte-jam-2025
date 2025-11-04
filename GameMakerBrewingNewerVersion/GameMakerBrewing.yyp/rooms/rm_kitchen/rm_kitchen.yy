@@ -12,6 +12,7 @@
     {"name":"inst_3853352C","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_1EBB17EB","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_1D93A89A","path":"rooms/rm_kitchen/rm_kitchen.yy",},
+<<<<<<< HEAD
     {"name":"inst_4EB30447","path":"rooms/rm_kitchen/rm_kitchen.yy",},
 <<<<<<< HEAD
 =======
@@ -22,6 +23,8 @@
     {"name":"inst_7CCAB693","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_4DC07D98","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_37322FA7","path":"rooms/rm_kitchen/rm_kitchen.yy",},
+=======
+>>>>>>> parent of 69709c4 (Merge branch 'main' of https://github.com/nordinmp/mega-byte-jam-2025)
     {"name":"inst_4EB30447","path":"rooms/rm_kitchen/rm_kitchen.yy",},
 >>>>>>> parent of 2ee1410 (Real Version)
     {"name":"inst_17812231","path":"rooms/rm_kitchen/rm_kitchen.yy",},
@@ -46,6 +49,7 @@
         {"$GMRInstance":"v4","%Name":"inst_7E280FAB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7E280FAB","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":17.0,"x":192.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_3853352C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3853352C","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":17.0,"x":1920.0,"y":0.0,},
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         {"$GMRInstance":"v4","%Name":"inst_1EBB17EB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1EBB17EB","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":30.0,"scaleY":1.0,"x":0.0,"y":704.0,},
         {"$GMRInstance":"v4","%Name":"inst_2A61940E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A61940E","objectId":{"name":"obj_paperclip","path":"objects/obj_paperclip/obj_paperclip.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":800.0,},
@@ -69,6 +73,8 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"propertyId":{"name":"ingredient_id","path":"objects/obj_ingredient/obj_ingredient.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"frog_eyes",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":928.0,},
 >>>>>>> parent of 2ee1410 (Real Version)
+=======
+>>>>>>> parent of 69709c4 (Merge branch 'main' of https://github.com/nordinmp/mega-byte-jam-2025)
         {"$GMRInstance":"v4","%Name":"inst_2A61940E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A61940E","objectId":{"name":"obj_paperclip","path":"objects/obj_paperclip/obj_paperclip.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":800.0,},
         {"$GMRInstance":"v4","%Name":"inst_1EBB17EB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1EBB17EB","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":30.0,"scaleY":1.0,"x":1408.0,"y":1312.0,},
         {"$GMRInstance":"v4","%Name":"inst_17812231","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_17812231","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":11.5,"scaleY":3.0,"x":576.0,"y":1216.0,},
