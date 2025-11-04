@@ -14,4 +14,4 @@ if hovering {
 
 draw_sprite_stretched(spr_standard_button, 1, x, y, sprite_width, sprite_height);
 
-draw_text_transformed(x + (sprite_width / 2), y + (sprite_height/2), type, 6, 6, 0);
+draw_text_transformed(x + (sprite_width / 2), y + (sprite_height/2), type, xscale, yscale, 0);
