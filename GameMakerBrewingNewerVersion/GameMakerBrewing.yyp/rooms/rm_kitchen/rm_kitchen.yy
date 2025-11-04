@@ -12,15 +12,12 @@
     {"name":"inst_3853352C","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_1EBB17EB","path":"rooms/rm_kitchen/rm_kitchen.yy",},
 <<<<<<< HEAD
-<<<<<<< HEAD
     {"name":"inst_1D93A89A","path":"rooms/rm_kitchen/rm_kitchen.yy",},
 <<<<<<< HEAD
     {"name":"inst_4EB30447","path":"rooms/rm_kitchen/rm_kitchen.yy",},
 <<<<<<< HEAD
 =======
     {"name":"inst_1EBB17EB","path":"rooms/rm_kitchen/rm_kitchen.yy",},
-=======
->>>>>>> parent of 661cf9f (okay)
 =======
 >>>>>>> parent of 661cf9f (okay)
     {"name":"inst_2A61940E","path":"rooms/rm_kitchen/rm_kitchen.yy",},
@@ -39,7 +36,6 @@
     {"name":"inst_17812231","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_311754C3","path":"rooms/rm_kitchen/rm_kitchen.yy",},
 <<<<<<< HEAD
-<<<<<<< HEAD
     {"name":"inst_1EBB17EB","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_4EB30447","path":"rooms/rm_kitchen/rm_kitchen.yy",},
 <<<<<<< HEAD
@@ -48,10 +44,6 @@
     {"name":"inst_311754C3","path":"rooms/rm_kitchen/rm_kitchen.yy",},
 >>>>>>> parent of 8ce96e1 (real version)
 >>>>>>> parent of 2ee1410 (Real Version)
-=======
-    {"name":"inst_1D93A89A","path":"rooms/rm_kitchen/rm_kitchen.yy",},
-    {"name":"inst_4EB30447","path":"rooms/rm_kitchen/rm_kitchen.yy",},
->>>>>>> parent of 661cf9f (okay)
 =======
     {"name":"inst_1D93A89A","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_4EB30447","path":"rooms/rm_kitchen/rm_kitchen.yy",},
@@ -69,11 +61,8 @@
 =======
         {"$GMRInstance":"v4","%Name":"inst_1EBB17EB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1EBB17EB","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":30.0,"scaleY":1.0,"x":0.0,"y":704.0,},
 <<<<<<< HEAD
-<<<<<<< HEAD
         {"$GMRInstance":"v4","%Name":"inst_2A61940E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A61940E","objectId":{"name":"obj_paperclip","path":"objects/obj_paperclip/obj_paperclip.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":800.0,},
         {"$GMRInstance":"v4","%Name":"inst_1EBB17EB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1EBB17EB","objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":30.0,"scaleY":1.0,"x":1408.0,"y":1312.0,},
-=======
->>>>>>> parent of 661cf9f (okay)
 =======
 >>>>>>> parent of 661cf9f (okay)
         {"$GMRInstance":"v4","%Name":"inst_2A61940E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2A61940E","objectId":{"name":"obj_paperclip","path":"objects/obj_paperclip/obj_paperclip.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-352.0,"y":32.0,},
