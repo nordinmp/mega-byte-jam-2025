@@ -5,6 +5,8 @@
 	{
 		newX = mouse_x;
 		newY = mouse_y;
+		
+		instance_create_depth(newX, newY, -1000, obj_pointer)
 	}
 
 	// get the x- and y-speed
@@ -37,8 +39,12 @@
 
 	// move the player
 	
-	x += xSpd;
-	y += ySpd;
+	if global.overlay == "none"
+	{
+		x += xSpd;
+		y += ySpd;
+	}
+
 
 	// depth
 	depth = -100;
