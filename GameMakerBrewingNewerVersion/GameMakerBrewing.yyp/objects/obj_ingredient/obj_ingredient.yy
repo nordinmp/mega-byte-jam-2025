@@ -29,7 +29,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"name","filters":[],"listItems":[],"multiselect":false,"name":"name","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Ingredient","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"sprite","filters":[
+        "GMSprite",
+      ],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_ingredient","path":"sprites/spr_ingredient/spr_ingredient.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_ingredient","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"ingredient_id","filters":[],"listItems":[],"multiselect":false,"name":"ingredient_id","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"DEFAULT","varType":2,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
