@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_ingredients",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ingredients",
+  "parent":{
+    "name":"Modules",
+    "path":"folders/Scripts/Modules.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
