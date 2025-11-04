@@ -1,21 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ingredient",
+  "%Name":"obj_paperclip",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_ingredient",
+  "name":"obj_paperclip",
   "overriddenProperties":[],
   "parent":{
     "name":"Ingredients",
     "path":"folders/Objects/Ingredients.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_ingredient",
+    "path":"objects/obj_ingredient/obj_ingredient.yy",
+  },
   "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -34,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ingredient",
-    "path":"sprites/spr_ingredient/spr_ingredient.yy",
+    "name":"spr_paperclip",
+    "path":"sprites/spr_paperclip/spr_paperclip.yy",
   },
   "spriteMaskId":null,
   "visible":true,
