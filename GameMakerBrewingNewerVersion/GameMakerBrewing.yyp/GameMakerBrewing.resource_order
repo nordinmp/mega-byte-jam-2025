@@ -67,7 +67,6 @@
     {"name":"spr_letter_background","order":10,"path":"sprites/spr_letter_background/spr_letter_background.yy",},
     {"name":"spr_mixing_stick","order":14,"path":"sprites/spr_mixing_stick/spr_mixing_stick.yy",},
     {"name":"spr_paperclip","order":1,"path":"sprites/spr_paperclip/spr_paperclip.yy",},
-    {"name":"spr_player","order":15,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_sideeyecat","order":7,"path":"sprites/spr_sideeyecat/spr_sideeyecat.yy",},
     {"name":"spr_slider","order":2,"path":"sprites/spr_slider/spr_slider.yy",},
     {"name":"spr_standard_button","order":9,"path":"sprites/spr_standard_button/spr_standard_button.yy",},
