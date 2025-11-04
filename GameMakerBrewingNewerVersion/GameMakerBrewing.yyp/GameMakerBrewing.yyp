@@ -74,6 +74,7 @@
     {"id":{"name":"global_definitions","path":"scripts/global_definitions/global_definitions.yy",},},
     {"id":{"name":"scr_data_system","path":"scripts/scr_data_system/scr_data_system.yy",},},
     {"id":{"name":"scr_dialogue","path":"scripts/scr_dialogue/scr_dialogue.yy",},},
+    {"id":{"name":"scr_ingredients","path":"scripts/scr_ingredients/scr_ingredients.yy",},},
     {"id":{"name":"scr_quit_game","path":"scripts/scr_quit_game/scr_quit_game.yy",},},
     {"id":{"name":"scr_room_change","path":"scripts/scr_room_change/scr_room_change.yy",},},
     {"id":{"name":"scr_show_overlay","path":"scripts/scr_show_overlay/scr_show_overlay.yy",},},
