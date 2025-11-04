@@ -1,7 +1,7 @@
 /// @description
 
-draw_sprite(sprite, 1, x, y);
-draw_set_color(c_black);
+draw_sprite(sprite_index, 1, x, y);
+
 
 if global.overlay == "none"
 {
