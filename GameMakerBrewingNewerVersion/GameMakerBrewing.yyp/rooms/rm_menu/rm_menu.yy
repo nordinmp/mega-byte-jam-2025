@@ -27,6 +27,8 @@
     {"name":"inst_39B23D6A","path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"inst_208EB9C9","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_C7A4ABC","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_697D857C","path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"inst_7BE15E68","path":"rooms/rm_menu/rm_menu.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -54,6 +56,12 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btn","path":"objects/obj_btn/obj_btn.yy",},"propertyId":{"name":"type","path":"objects/obj_btn/obj_btn.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Quit",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_btn","path":"objects/obj_btn/obj_btn.yy",},"propertyId":{"name":"mode","path":"objects/obj_btn/obj_btn.yy",},"resource":{"name":"scr_quit_game","path":"scripts/scr_quit_game/scr_quit_game.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"scr_quit_game",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":12.173914,"scaleY":3.0869567,"x":672.0,"y":720.0,},
+        {"$GMRInstance":"v4","%Name":"inst_697D857C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_697D857C","objectId":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":240.0,"y":592.0,},
+        {"$GMRInstance":"v4","%Name":"inst_7BE15E68","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7BE15E68","objectId":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"propertyId":{"name":"name","path":"objects/obj_ingredient/obj_ingredient.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Frog Eyes",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"propertyId":{"name":"sprite","path":"objects/obj_ingredient/obj_ingredient.yy",},"resource":{"name":"spr_frog_eyes","path":"sprites/spr_frog_eyes/spr_frog_eyes.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_frog_eyes",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"propertyId":{"name":"ingredient_id","path":"objects/obj_ingredient/obj_ingredient.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"frog_eyes",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":592.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
