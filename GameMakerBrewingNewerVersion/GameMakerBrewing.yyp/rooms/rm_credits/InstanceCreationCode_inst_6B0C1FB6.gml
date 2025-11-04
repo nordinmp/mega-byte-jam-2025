@@ -1,5 +1,4 @@
 devs = [
-	"Culf",
 	"Damrong",
 	"mini q",
 	"Nordin",
