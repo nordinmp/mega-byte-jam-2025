@@ -31,9 +31,6 @@
     {"name":"inst_7CCAB693","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_4DC07D98","path":"rooms/rm_kitchen/rm_kitchen.yy",},
     {"name":"inst_37322FA7","path":"rooms/rm_kitchen/rm_kitchen.yy",},
-<<<<<<< HEAD
->>>>>>> parent of 9fd5ee1 (Merge branch 'main' of https://github.com/nordinmp/mega-byte-jam-2025)
-=======
 >>>>>>> parent of 9fd5ee1 (Merge branch 'main' of https://github.com/nordinmp/mega-byte-jam-2025)
   ],
   "isDnd":false,
@@ -69,9 +66,6 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"propertyId":{"name":"sprite","path":"objects/obj_ingredient/obj_ingredient.yy",},"resource":{"name":"spr_frog_eyes","path":"sprites/spr_frog_eyes/spr_frog_eyes.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_frog_eyes",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_ingredient","path":"objects/obj_ingredient/obj_ingredient.yy",},"propertyId":{"name":"ingredient_id","path":"objects/obj_ingredient/obj_ingredient.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"frog_eyes",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":928.0,},
-<<<<<<< HEAD
->>>>>>> parent of 9fd5ee1 (Merge branch 'main' of https://github.com/nordinmp/mega-byte-jam-2025)
-=======
 >>>>>>> parent of 9fd5ee1 (Merge branch 'main' of https://github.com/nordinmp/mega-byte-jam-2025)
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
