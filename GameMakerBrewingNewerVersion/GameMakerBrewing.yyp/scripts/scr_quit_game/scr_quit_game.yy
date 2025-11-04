@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_quit_game",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_quit_game",
+  "parent":{
+    "name":"Button",
+    "path":"folders/Scripts/Button.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -30,23 +30,18 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
+    {"$GMObjectProperty":"v2","%Name":"type","filters":[],"listItems":[],"multiselect":false,"name":"type","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"xscale","filters":[],"listItems":[],"multiselect":false,"name":"xscale","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"6","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"yscale","filters":[],"listItems":[],"multiselect":false,"name":"yscale","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"6","varType":0,},
     {"$GMObjectProperty":"v2","%Name":"room_target","filters":[
         "GMRoom",
       ],"listItems":[],"multiselect":false,"name":"room_target","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"data","filters":[],"listItems":[],"multiselect":false,"name":"data","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
-    {"$GMObjectProperty":"v2","%Name":"type","filters":[],"listItems":[],"multiselect":false,"name":"type","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"mode","filters":[
         "GMScript",
       ],"listItems":[
         "room_change",
       ],"multiselect":false,"name":"mode","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"noone","varType":5,},
-    {"$GMObjectProperty":"v2","%Name":"buttonMode","filters":[],"listItems":[
-        "\"Room\"",
-        "\"Data\"",
-        "\"Overlay\"",
-      ],"multiselect":false,"name":"buttonMode","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"Room\"","varType":6,},
-    {"$GMObjectProperty":"v2","%Name":"xscale","filters":[],"listItems":[],"multiselect":false,"name":"xscale","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"6","varType":0,},
-    {"$GMObjectProperty":"v2","%Name":"yscale","filters":[],"listItems":[],"multiselect":false,"name":"yscale","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"6","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
